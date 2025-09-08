@@ -1,0 +1,11 @@
+# System / editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs
+*.log
+
+# Env files (in case you add secrets later)
+.env
+.env.local
