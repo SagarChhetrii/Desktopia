@@ -63,7 +63,7 @@ a {
 .navbar .logo-icon {
   width: 100px;
   height: 70px;
-  margin-right: -50px;
+  margin-right: -20px;
   animation: float 3s ease-in-out infinite alternate;
 }
 
@@ -336,9 +336,8 @@ a {
 
 .game-card h2 {
   font-size: 2rem;
-  position: absolute;
-  color: var(--color-navy);
-  margin: 8rem;
+  color: white;
+  margin-bottom: 0.5rem;
 }
 
 .game-card p {
@@ -471,7 +470,6 @@ a {
   .homepage-hero h1 {
     font-size: 2rem; /* Smaller font size for mobile */
   }
-  
 
 }
 @media (max-width:600px) {
@@ -514,7 +512,7 @@ a {
   .illustrations {
     position: relative; /* Make illustrations flow with content */
     height: auto;
-    margin-top: 4rem; /* Adjust margin */
+    margin-top: 2rem; /* Adjust margin */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
