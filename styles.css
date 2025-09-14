@@ -63,7 +63,7 @@ a {
 .navbar .logo-icon {
   width: 100px;
   height: 70px;
-  margin-right: -10px;
+  margin-right: -20px;
   animation: float 3s ease-in-out infinite alternate;
 }
 
