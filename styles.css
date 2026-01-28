@@ -336,13 +336,13 @@ a {
 
 .game-card h2 {
   font-size: 2rem;
-  color: white;
+  color: var(--color-navy);
   margin-bottom: 0.5rem;
 }
 
 .game-card p {
   font-size: 1rem;
-  color: rgba(255, 255, 255, 0.8);
+  color: var(--color-navy);
 }
 
 /* Animations */
